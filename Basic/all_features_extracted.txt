@@ -1,0 +1,621 @@
+=== Basic/All Feature.pdf ===
+
+--- PAGE 1 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 1
+Aivira
+Complete 20-Module Feature Catalogue
+One AI. Every stage of life. Every responsibility.
+From a school child to a startup founder or company owner.
+Product vision
+A universal AI personal assistant that understands real-life situations, remembers commitments, organises responsibilities and
+helps people take the right actions.
+1. AI Voice Assistant
+Voice interaction options
+1. Multilingual Voice Assistant
+Talk naturally in Hindi, English and Hinglish.
+2. Real-time Voice Interaction
+Live waveform, speech recognition and natural voice responses.
+3. AI Intent Understanding
+Understand multiple instructions from a single sentence.
+4. Text-Based Interaction
+Type messages whenever voice interaction is inconvenient.
+5. Continuous Conversation
+Continue conversations with contextual understanding and interruption support.
+6. Automatic Language Detection
+Recognise the user's language and respond appropriately.
+2. AI Calling Assistant
+Three calling options and call management
+1. WhatsApp Calling
+Personal calls and group calls through WhatsApp.
+2. Normal Phone Calling
+Call mobile numbers using the device's phone dialer.
+3. Aivira-to-Aivira Calling
+Internet-based voice calls between registered Aivira users.
+4. Schedule Calls With Others
+Schedule calls with individuals or groups and send invitations where supported.
+5. Personal Call Reminders
+Remind yourself to call someone at a particular time.
+6. Call History
+View incoming, outgoing, missed and completed Aivira calls.
+7. Smart Contact Selection
+Select personal contacts, WhatsApp contacts and registered Aivira users.
+8. Incoming & Outgoing Call Screens
+Display caller details, ringing status and call controls.
+9. Smart Call Controls
+Mute, speaker, accept, reject and end calls.
+10. Missed Call Follow-up
+Create reminders for important unanswered calls.
+11. Recurring Call Scheduling
+Schedule recurring calls with family, clients or team members.
+12. Call Invitations
+Send invitations to registered Aivira users and track acceptance.
+
+--- PAGE 2 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 2
+3. Family & Child Management
+FamilyLife Manager
+1. School Fee Reminders
+Remind parents before their child's school fee payment deadline.
+2. Homework Tracker
+Manage homework, assignments and pending school activities.
+3. Exam & Result Alerts
+Remember examination dates, results and academic deadlines.
+4. School Event Reminders
+Track PTMs, school functions, holidays and parent meetings.
+5. School Transport Alerts
+Remind parents about school bus pickup and drop timings.
+6. Parent-Child Task Sharing
+Parents can assign age-appropriate responsibilities to children.
+7. Family Calendar
+Manage family birthdays, events, appointments and schedules.
+8. Document Expiry Alerts
+Remember school IDs, certificates and important document renewals.
+9. Child Activity Updates
+Share parent-approved updates about important school activities.
+10. Family Follow-up Reminders
+Remind family members about pending responsibilities.
+4. Smart Driving & Urgent Call Assistant
+DriveSafe Assistant
+1. Automatic Driving Mode
+Enable a simplified hands-free interface when driving is detected and permission is
+granted.
+2. Urgent Call Alerts
+Announce incoming calls and identify callers marked as important.
+3. Hands-Free Call Handling
+Answer or reject supported calls through headset or voice controls.
+4. Priority Contact Management
+Give selected family members, managers or emergency contacts priority.
+5. Driving Auto-Reply
+Offer approved messages explaining that the user is driving.
+6. Voice Notification Reading
+Read important notifications aloud.
+7. Delivery Instruction Reading
+Read customer addresses and delivery instructions aloud.
+8. Missed Call Callback Reminder
+Remind the user to return important calls after driving.
+9. Emergency Contact Access
+Provide hands-free access to designated emergency contacts where supported.
+10. Bluetooth & Headset Integration
+Support compatible Bluetooth devices and hands-free controls.
+
+--- PAGE 3 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 3
+5. Smart Money & Payment Manager
+MoneyMate
+1. School & College Fee Dues
+Remind parents and students about fee payment deadlines.
+2. Electricity & Utility Bills
+Track electricity, water, internet and other utility bills.
+3. Rent Reminders
+Remind tenants and landlords about monthly rent.
+4. EMI & Loan Reminders
+Remember loan instalments and payment deadlines.
+5. Subscription Renewals
+Notify users before recurring subscription charges.
+6. Employee Salary Reminders
+Remind company owners about pending salary processing.
+7. Customer Payment Dues
+Track outstanding payments and customer follow-ups.
+8. Invoice & Bill Management
+Organise invoices, receipts and payment dates.
+9. Payment Confirmation
+Mark payments as completed and maintain records.
+10. Expense Tracking
+Record and categorise personal or household expenses.
+6. Smart Work & Employee Assistant
+WorkMate AI
+1. Employee Attendance Reminders
+Remind employees to mark their attendance.
+2. Shift Management
+Notify employees about their upcoming shifts.
+3. Task Delegation
+Assign responsibilities to employees through voice commands.
+4. Work Deadline Alerts
+Notify employees about pending work and deadlines.
+5. Team Meeting Coordination
+Coordinate suitable meeting times for team members.
+6. Leave Management
+Track leave requests, approvals and availability.
+7. Salary Processing Reminders
+Remind employers about monthly payroll activities.
+8. Employee Work Follow-up
+Remember to check pending tasks and progress.
+9. Daily Work Summary
+Summarise completed and pending team activities.
+10. New Employee Onboarding
+Track joining dates, documents and onboarding tasks.
+
+--- PAGE 4 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 4
+7. Personal Safety & Emergency Assistant
+SafeCircle
+1. SOS Emergency Alert
+Send emergency alerts to selected trusted contacts.
+2. Live Location Sharing
+Share location with trusted contacts after consent.
+3. Emergency Contact Calling
+Quickly reach designated emergency contacts.
+4. Safe Arrival Check-in
+Ask users to confirm that they reached home safely.
+5. Travel Check-in
+Schedule check-ins during long journeys.
+6. Missed Check-in Alerts
+Notify trusted contacts when a configured check-in is missed.
+7. Emergency Information
+Store important emergency contacts and instructions.
+8. Personal Safety Routine
+Create recurring safety check-ins for selected journeys.
+8. Health & Elderly Care Assistant
+CareMate
+1. Medicine Reminders
+Create daily and recurring medication reminders.
+2. Doctor Appointment Alerts
+Remember upcoming medical appointments.
+3. Daily Health Routine
+Remind users about exercise, walking and hydration.
+4. Elderly Parent Care
+Help family members organise elderly parents' daily routines.
+5. Medicine Confirmation
+Track whether medication reminders have been confirmed.
+6. Caregiver Notifications
+Notify authorised caregivers about configured missed confirmations.
+7. Prescription Refill Alerts
+Remind users when medicines may need refilling.
+8. Health Document Management
+Organise user-provided medical reports and appointment notes.
+9. Health Check-up Schedule
+Remember routine health check-up dates.
+9. Smart Shopping & Delivery Manager
+TrackMate
+1. Order Tracking
+Keep track of expected parcel deliveries through connected services.
+2. Delivery Alerts
+Remind users about expected deliveries.
+3. Delivery Boy Communication
+Help manage delivery calls through DriveSafe.
+4. Smart Shopping Lists
+Create shopping lists using voice commands.
+5. Grocery Reminders
+Remember recurring household purchases.
+6. Return Deadline Alerts
+Remind users before return windows expire.
+7. Warranty Reminders
+Remember product warranty expiry dates.
+8. Service & Repair Appointments
+Track repair, installation and maintenance visits.
+
+--- PAGE 5 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 5
+10. Startup & Business Owner Assistant
+FounderOS
+1. Investor Follow-up
+Remind founders to contact investors and send pitch decks.
+2. Client Management
+Remember client discussions, commitments and requirements.
+3. Meeting Preparation
+Prepare notes and important points before meetings.
+4. Business Decision Memory
+Remember important business decisions and their context.
+5. Team Coordination
+Manage meetings, responsibilities and team activities.
+6. Contract & Agreement Deadlines
+Remember agreement renewals and important contract dates.
+7. Vendor Follow-ups
+Track supplier communication and pending deliveries.
+8. Business Expense Reminders
+Remember company bills and payment deadlines.
+9. Daily Founder Briefing
+Summarise meetings, tasks and pending business decisions.
+10. Opportunity Tracker
+Remember leads, partnerships and business opportunities.
+11. Pitch & Presentation Preparation
+Organise presentation deadlines and meeting material.
+12. Business Goal Tracking
+Track milestones, targets and important objectives.
+11. Communication & Relationship Manager
+ConnectAI
+1. Important Call Reminders
+Remind users to call important contacts.
+2. Birthday & Anniversary Alerts
+Remember birthdays and special occasions.
+3. Missed Call Follow-up
+Remind users to return important missed calls.
+4. Scheduled Calls
+Organise future personal and professional calls.
+5. WhatsApp Assistance
+Open personal or group conversations for supported actions.
+6. Aivira Internet Calling
+Connect registered Aivira users.
+7. Meeting Invitations
+Create and share meeting invitations.
+8. Relationship Notes
+Remember useful details that users save about contacts.
+9. Follow-up Tracking
+Remember when someone needs a response.
+10. Important Contact Groups
+Organise family, friends, clients and professional contacts.
+
+--- PAGE 6 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 6
+12. Travel & Daily Journey Assistant
+TravelMate
+1. Journey Reminders
+Remind users before departure.
+2. Flight & Train Alerts
+Track journey timings using available connected information.
+3. Packing Checklist
+Remember important items to carry.
+4. Hotel Booking Reminders
+Organise check-in dates and booking details.
+5. Travel Document Alerts
+Remember passport and ID expiry dates.
+6. Route Preparation
+Prepare travel plans and journey schedules.
+7. Family Travel Updates
+Share journey updates with selected contacts.
+8. Travel Driving Mode
+Enable DriveSafe for supported hands-free assistance.
+13. Smart Home & Household Manager
+HomeMate
+1. Household Chores
+Assign and track cleaning and daily responsibilities.
+2. Water & Electricity Alerts
+Remember household checks and bill-related tasks.
+3. Appliance Maintenance
+Track AC, refrigerator and other service dates.
+4. Gas Cylinder Reminders
+Remind users to check or book gas refills.
+5. Domestic Help Schedule
+Remember maid, cook and maintenance timings.
+6. Family Shopping Lists
+Maintain shared grocery lists.
+7. Family Task Sharing
+Distribute household responsibilities.
+8. Home Expense Tracking
+Record and organise household expenses.
+9. Home Maintenance Follow-up
+Remember pending repair and maintenance work.
+
+--- PAGE 7 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 7
+14. AI Daily Briefing & Personal Intelligence
+LifeOS Intelligence
+1. Morning Briefing
+Tell users about today's important activities and responsibilities.
+2. Evening Summary
+Summarise completed and pending work.
+3. Priority Detection
+Highlight the most important upcoming responsibilities.
+4. Conflict Detection
+Identify overlapping meetings and tasks.
+5. Missed Responsibility Alerts
+Highlight overdue tasks and missed follow-ups.
+6. Contextual Suggestions
+Suggest actions based on saved tasks, commitments and schedules.
+7. Natural Language Memory
+Retrieve previously saved information using normal questions.
+8. Personalised Recommendations
+Adapt assistance to the user's persona and preferences.
+9. Daily Activity Insights
+Show how the user spends time across important activities.
+10. Intelligent Schedule Optimisation
+Suggest better ways to organise available time.
+15. Smart Commitment & Follow-up Intelligence
+PromiseOS
+1. Promise Tracker
+Remember commitments such as sending a file, completing work or returning a call.
+2. Waiting For Tracker
+Track pending replies, payments, documents and approvals.
+3. Smart Follow-up
+Remind users when customers, colleagues or friends need a response.
+4. Smart Escalation
+Escalate overdue important responsibilities according to configured rules.
+5. Adaptive Reminders
+Adjust reminder timing based on priority and user preferences.
+6. Commitment Completion
+Track whether promises and follow-ups were completed.
+7. Commitment History
+Review previous commitments and their outcomes.
+8. Shared Responsibility Tracking
+Track tasks delegated to authorised family or team members.
+16. AI Document & Information Manager
+DocuMind AI
+1. Document Intelligence
+Extract useful information from bills, notices, circulars and invoices.
+2. Automatic Deadline Extraction
+Identify payment deadlines, appointments and expiry dates.
+3. Invoice & Receipt Recognition
+Extract amounts, vendors and transaction details.
+4. School Circular Understanding
+Identify school fee dates, holidays, exams and events.
+5. Document Search
+Find information across saved documents using natural language.
+6. Smart Document Organisation
+Organise personal, family and business documents.
+7. Expiry Notifications
+Create reminders for important document renewals.
+8. Document Summaries
+Summarise long documents into important points.
+
+--- PAGE 8 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 8
+17. AI Memory & Voice Notes
+MemoryOS
+1. Voice Notes
+Record and save ideas, discussions and important information.
+2. AI Summarisation
+Generate summaries, decisions and extracted tasks.
+3. Long-Term AI Memory
+Retrieve information from previously saved notes using RAG.
+4. Ask Your Memory
+Ask questions about previous meetings, conversations and saved information.
+5. Smart Note Categories
+Organise notes into personal, academic, family and business categories.
+6. Audio Transcription
+Convert voice recordings into searchable text.
+7. Automatic Task Extraction
+Find tasks and commitments inside saved notes.
+8. Source-Based Memory
+Show which saved note or recording supports an AI answer.
+9. Memory Controls
+Review, disable or delete saved memory according to user settings.
+18. AI Automation & Human Approval
+ActionOS
+1. Smart Action Detection
+Identify tasks, events, reminders and requested actions.
+2. AI Email Assistance
+Prepare, edit and send emails after user approval.
+3. Human Approval System
+Approve, edit or reject sensitive actions before execution.
+4. Calendar Automation
+Create and update approved calendar events.
+5. Communication Automation
+Prepare messages and open supported communication services.
+6. Payment Assistance
+Prepare payment information while requiring explicit user confirmation for payment.
+7. Action History
+Maintain completed, failed and rejected action records.
+8. Action Undo & Recovery
+Offer undo or recovery where the underlying action supports it.
+9. Permission-Based Automation
+Control what Aivira may do independently and what requires approval.
+
+--- PAGE 9 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 9
+19. Personalisation & Settings
+Personalisation Center
+1. Personalised Personas
+School Student, College Student, Professional, Founder, Company Owner and
+Household.
+2. Language Preferences
+Hindi, English and Hinglish.
+3. Voice Customisation
+Choose voice, speech style and playback speed.
+4. Notification Preferences
+Control reminder, call and activity notifications.
+5. Privacy & Security
+Manage permissions, recording consent and data access.
+6. Personal Data Management
+Export, review and request deletion of personal information.
+7. Light & Dark Themes
+Choose the preferred application appearance.
+8. Family & Organisation
+Workspaces
+Manage personal, family and company spaces with separate permissions.
+9. Role-Based Access
+Control what children, parents, employees and administrators can access.
+10. Connected Accounts
+Manage authorised integrations and connected services.
+20. Technical & Platform Capabilities
+Platform Infrastructure
+1. Android-First Application
+Built using Expo, React Native and TypeScript.
+2. Offline Support
+Cache tasks and notes and queue text requests when offline.
+3. Smart Notifications
+Local scheduled notifications and push notifications.
+4. Secure Backend
+FastAPI backend with authenticated APIs.
+5. Gnani Speech Integration
+Speech-to-text and text-to-speech through the backend.
+6. Persistent Data & Memory
+Structured storage, voice notes and retrieval.
+7. Secure Action Execution
+Secure tokens, approval workflows and permission management.
+8. Background Synchronisation
+Synchronise supported tasks, reminders and notifications.
+9. Third-Party Integrations
+Connect authorised calendar, communication, payment and productivity services.
+10. Accessibility Support
+Screen-reader labels, font scaling and accessible controls.
+21. Situation Intelligence – Real-life Examples
+Aivira should not only wait for exact commands. It should understand context and suggest useful actions, while asking permission before
+acting.
+School fee
+Situation: School fee is due in five days.
+Aivira suggestion: Rohan's school fee of ■8,000 is due on 15 December. Would you like me to remind you on 12 December?
+Delivery executive
+Situation: The user is riding and receives an important call.
+Aivira suggestion: Your delivery manager is calling. You can answer using your headset or call back when safe.
+
+--- PAGE 10 ---
+Aivira  Complete 20-Module Feature Catalogue
+Page 10
+Startup founder
+Situation: An investor follow-up is due today.
+Aivira suggestion: You planned to send the updated pitch deck to your investor today. Would you like me to prepare an email
+draft?
+Elderly parent
+Situation: A scheduled medicine reminder remains unconfirmed.
+Aivira suggestion: Papa's 9 PM medicine reminder hasn't been confirmed. Would you like to send a check-in notification?
+22. Main Application Areas
+Personal Life
+FamilyLife · MoneyMate · HomeMate · TravelMate
+Communication
+Calling Assistant · DriveSafe · ConnectAI
+Productivity
+WorkMate · Planner · Tasks · PromiseOS
+Health & Safety
+CareMate · SafeCircle
+Business
+FounderOS · Employee Management · Business Intelligence
+AI Intelligence
+LifeOS · MemoryOS · DocuMind AI · Situation Intelligence
+Automation
+ActionOS · Smart Reminders · Smart Escalation
+23. Product Positioning
+Aivira
+Your Life. Your Work. One AI.
+From managing a child's school fees to handling a company's daily responsibilities, Aivira helps people remember, organise,
+communicate and act.
+One platform. Multiple personas. Intelligent assistance.
+Implementation note: This is a proposed feature catalogue, not a claim that every feature is already implemented. WhatsApp, native
+phone calling, VoIP, payments, background services and automatic driving detection each require separate platform integrations and
+permissions.
+Safety note: Children, financial actions, health information and driving features need additional safety and privacy controls. Driving
+features should prioritise hands-free use and never encourage phone interaction while riding.
+
+--- PAGE 11 ---
+Aivira  Safety Agent Update
+Update page 1
+Aivira
+Updated Safety Agent – Integrated Feature Addendum
+This update expands the original DriveSafe and SafeCircle concepts into one intelligent safety module.
+Updated module name: Aivira Safety Agent
+One safety engine with specialised modes for women, delivery riders, drivers, walkers, travellers, families and elderly users. It
+combines journey check-ins, hands-free assistance, trusted contacts and permission-based emergency workflows.
+1. Women's Safety Assistant
+A set of consent-based tools for women travelling alone, commuting or feeling unsafe.
+1. Live Location Sharing
+Share real-time location with selected trusted contacts during a journey, with the user's
+permission.
+2. Safe Journey Timer
+Set an expected arrival time and request a safety check-in at the destination.
+3. SOS Emergency Activation
+Send an emergency alert and available location information to selected trusted contacts.
+4. Route Deviation Alert
+Detect a significant unexpected route change where location access and suitable
+detection are available; ask the user to confirm they are safe.
+5. Emergency Calling
+Offer quick access to trusted contacts or configured emergency services.
+6. Missed Check-in Alert
+Notify selected trusted contacts if a configured check-in is missed.
+7. Voice-Activated SOS
+Allow a configured voice command to start the emergency workflow where supported.
+8. Hands-Free Safety Mode
+Support voice interaction through compatible headsets while walking or travelling.
+9. Trusted Circle
+Create a private group of family members or friends for journey updates.
+10. Discreet Emergency Shortcut
+Provide a quick, discreet way to trigger an alert without navigating multiple screens.
+2. Smart Real-Life Safety Scenarios
+A. Woman travelling alone at night
+The user starts Safe Journey Mode, selects a destination and trusted contact, shares location with permission, and sets an
+arrival timer. If the check-in is missed, Aivira follows the user's configured alert and escalation rules.
+B. Unexpected route deviation
+Aivira detects a significant deviation from the planned route where supported, asks whether everything is okay, and offers
+options to contact a trusted person or activate SOS. A route change alone is not treated as proof of danger.
+C. Delivery rider receives an urgent call
+Aivira announces the caller, supports compatible hands-free call controls, offers an approved driving auto-reply if unanswered,
+and reminds the rider to call back when safe.
+D. User feels unsafe
+The user triggers SOS through a configured voice command or discreet control. Aivira alerts selected trusted contacts, shares
+available location information and offers emergency calling.
+
+--- PAGE 12 ---
+Aivira  Safety Agent Update
+Update page 2
+3. One Agent, Multiple Safety Modes
+Women's Safety
+Journey protection, trusted contacts, check-ins and SOS.
+DriveSafe
+Drivers and delivery riders; urgent call announcements and hands-free support.
+SafeWalk
+Check-ins and trusted-contact sharing for people walking alone.
+Travel Safety
+Journey schedules, destination check-ins and travel updates.
+Family Safety
+Consent-based family check-ins and safety notifications.
+Elderly Safety
+Routine check-ins and caregiver notifications based on configured rules.
+4. Aivira Safety Center – Suggested App Layout
+Safety Modes
+Women's Safety · DriveSafe · SafeWalk · Travel Safety · Family Safety · Elderly Safety
+Trusted Contacts
+Manage selected people who can receive check-ins and emergency alerts.
+Journey History
+Review completed journeys and check-in records.
+Emergency Settings
+Configure SOS shortcuts, alert rules, permissions and escalation preferences.
+5. Core Differentiator: AI Safety Check-in Intelligence
+Aivira should understand the journey context rather than send only generic notifications. A user might say: “I'm going to college;
+I'll reach home by 7 PM”, “I'm travelling alone to the railway station” or “I'm delivering an order in an unfamiliar area.” Aivira can
+propose an appropriate check-in schedule, keep authorised contacts informed and offer help if a check-in is missed.
+6. Integration with the Original Catalogue
+Original DriveSafe Assistant
+Its driving mode, urgent call alerts, hands-free call handling, priority contacts, driving
+auto-reply, voice notifications and delivery instructions are retained as the DriveSafe
+mode.
+Original SafeCircle
+Its SOS alert, emergency contacts, live location sharing, safe-arrival check-in, travel
+check-in and missed check-in alerts are incorporated into Aivira Safety Agent.
+Updated structure
+Aivira Safety Agent becomes the umbrella module. DriveSafe and SafeCircle
+capabilities become specialised modes rather than disconnected modules.
+7. Safety, Privacy & Implementation Requirements
+Consent-based location access
+Explain when location is shared, with whom, and for how long. Let users stop sharing.
+No false certainty
+A route deviation or missed check-in is a signal to check, not proof of an emergency.
+Configurable escalation
+Users choose trusted contacts, timing, retries and what happens after a missed
+check-in.
+Hands-free driving safety
+Do not encourage phone interaction while riding or driving. Use compatible hands-free
+controls and follow platform restrictions.
+Emergency service availability
+Do not promise automatic rescue or guaranteed emergency-service connection;
+availability depends on device, network, region and integrations.
+Child and vulnerable-user safeguards
+Use age-appropriate controls, authorised guardians and careful permission
+management.
+Data protection
+Protect location history and emergency information with strong access controls and
+retention settings.
+
+--- PAGE 13 ---
+Aivira  Safety Agent Update
+Update page 3
+Aivira Safety Agent
+One intelligent safety companion for everyday journeys and real-life situations.
+From a woman travelling alone to a delivery rider on the road, a family member checking in or an elderly person living
+independently.
