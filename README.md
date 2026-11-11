@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Aivira – Your Life. Your Work. One AI." width="100%"/>
+<img src="./Basic/hero.svg" alt="Aivira – Your Life. Your Work. One AI." width="100%"/>
 
 <br/>
 
