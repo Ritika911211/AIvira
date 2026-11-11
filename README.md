@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" alt="Aivira – Your Life. Your Work. One AI." width="100%"/>
+<img src="assets/hero.svg" alt="Aivira – Your Life. Your Work. One AI." width="100%"/>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 **[Features](#-features) · [App UI](#-app-ui-gallery) · [Safety Agent](#-aivira-safety-agent) · [Architecture](#-architecture) · [Getting Started](#-getting-started) · [Roadmap](#-roadmap)**
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -40,35 +40,35 @@ Aivira: ✅ Reminder set for 10 December + another on the due date.
 |---|---|---|
 | Understands context and *suggests* actions — always asks permission first. | Remembers things like *"I'll send you the file tomorrow"* and reminds you before they're due. | Important task still pending? Re-reminds or notifies an authorised person per **your** rules. |
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📱 App UI Gallery
 
 > Full design collage — 15 screens across onboarding, modules, planner, safety, memory and settings.
 
 <div align="center">
-  <img src="ui-collage.png" alt="Aivira UI collage" width="100%"/>
+  <img src="assets/ui-collage.png" alt="Aivira UI collage" width="100%"/>
 </div>
 
 ### 🚀 Onboarding → Home
 
-<img src="flow-onboarding.png" alt="Splash, onboarding, login, home dashboard and modules" width="100%"/>
+<img src="assets/flow-onboarding.png" alt="Splash, onboarding, login, home dashboard and modules" width="100%"/>
 
 *Splash · Onboarding · Login/Signup · Home Dashboard · Modules*
 
 ### 🧩 Life Management Screens
 
-<img src="flow-modules.png" alt="FamilyLife, Safety Agent, DriveSafe, Planner, Tasks" width="100%"/>
+<img src="assets/flow-modules.png" alt="FamilyLife, Safety Agent, DriveSafe, Planner, Tasks" width="100%"/>
 
 *FamilyLife Manager · Safety Agent (Women Safety) · DriveSafe · Smart Planner · Tasks*
 
 ### 🎙️ Voice, Memory, Settings & Safety
 
-<img src="flow-voice-safety.png" alt="Voice assistant, memory, settings, SOS alert, daily briefing" width="100%"/>
+<img src="assets/flow-voice-safety.png" alt="Voice assistant, memory, settings, SOS alert, daily briefing" width="100%"/>
 
 *Voice Assistant · Memory & Notes · Settings · SOS Alert (dark) · Daily Briefing*
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 Features
 
@@ -264,7 +264,7 @@ Aivira is organised into **20 modules** grouped into 7 sections — not 100 feat
 - Secure tokens, approval workflows, accessibility support
 </details>
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧠 Situation Intelligence in Action
 
@@ -306,7 +306,7 @@ flowchart LR
 - 🚫 **No guaranteed rescue** — emergency-service availability depends on device, network and region.
 - 🏍️ **Hands-free first** — never encourages phone use while riding or driving.
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🏗️ Architecture
 
@@ -385,6 +385,7 @@ aivira/
 ├── backend/           # FastAPI server
 │   ├── app/           # Routes, models, AI logic
 │   └── requirements.txt
+├── assets/            # README images
 └── README.md
 ```
 
@@ -420,7 +421,7 @@ Contributions, ideas and feedback are welcome!
 
 <div align="center">
 
-<img src="divider.svg" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ### **Aivira — Your Life. Your Work. One AI.**
 
